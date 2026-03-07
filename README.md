@@ -1,4 +1,6 @@
 🎮 Jogo do Número Secreto
+
+
 📝 Descrição
 O Número Secreto é um jogo interativo onde o usuário deve tentar adivinhar um número gerado aleatoriamente pelo sistema dentro de um intervalo específico (1 a 10). O projeto foi desenvolvido com foco em lógica de programação, manipulação do DOM e design responsivo.
 
